@@ -1,0 +1,15 @@
+anyio==4.16.0
+certifi==2026.10.23
+elastic-transport==9.4.2
+elasticsearch==9.5.1
+idna==3.20
+markdown-it-py==4.2.0
+mdurl==0.1.2
+Pygments==2.21.0
+python-dateutil==4.0.0
+python-dotenv==1.2.4
+rich==15.0.0
+sniffio==1.3.1
+typing_extensions==4.16.0
+tzdata==2026.6
+urllib3==2.8.0
