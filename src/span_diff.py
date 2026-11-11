@@ -296,3 +296,4 @@ def display_span_diff_detail(item):
                 default=str,
             )
         )
+
